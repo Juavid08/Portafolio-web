@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+#icono{
+    animation-delay: 1s;
+} 
+#estela{
+    animation-delay: 1.5s;
+}
+#cohete{
+    animation-delay: 1.6s;
+}

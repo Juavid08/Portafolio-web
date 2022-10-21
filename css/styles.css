@@ -1,0 +1,136 @@
+.contenedorgeneral{
+height: 105vh;
+
+}
+.caja1 img{
+    height: 13.3vh;
+    position: relative;
+    background-color: white;
+}
+.caja2{
+    height: 5vh;
+}
+.caja3 {
+    font-size: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #fbbe06;
+    }
+.caja4{
+    font-size: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #fbbe06;
+    }
+
+.caja5 i{
+    font-size: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #fbbe06;
+    }
+
+.caja6 i{
+    font-size: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #fbbe06;
+    }
+.caja7{
+    height: 40vh;
+    background-color: #1f41da;
+}
+.caja8{
+    min-height: 95vh;
+
+}
+.caja9{
+    height: 105vh;
+    margin-top: -5vh;
+    position: absolute; 
+    right: 0;
+    top: 0;
+    background-image: url(../iconos/foto.png) ;
+  height: 105%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.caja10{
+    background-color: #fbbe06;
+    height: 2.5vh;
+}
+.caja11{
+    background-color: #fbc206b7;
+    height: 2.5vh;
+}
+.portafolio {
+    font-family: 'Bebas Neue', cursive;
+    color:#5d1067;
+    font-size: 60px;
+    position: -ms-page;
+    display: inline-block;
+    width: calc(100% - 13.3vh);
+}
+.nombre {
+font-family: 'Bebas Neue', cursive;
+color: #fbad06;
+font-size: 50px;
+position:-ms-page;
+display: inline-block;
+width: calc(100% - 13.3vh);
+}
+.line-tittle{
+margin-left: 13.3vh;
+border-left: 5px solid #5d1067;
+}
+.texto{
+font-family: 'Montserrat', sans-serif;
+color: #000000;
+font-size: 25px;
+margin-left: 13.3vh;
+padding-top: 50px;
+}
+    #bombillo{
+        animation-delay: 1s;
+        height:500px;
+        width: 600px;
+        justify-content: center;
+    align-items: center;
+    } 
+    #estela{
+        animation-delay: 1.5s;
+        height:500px;
+ width: 600px;
+ justify-content: center;
+    align-items: center;
+    }
+    #cohete{
+        animation-delay: 1.6s;
+        height:500px;
+ width: 600px;
+ justify-content: center;
+    align-items: center;
+    }
+    #fondo{
+        height:500px;
+ width: 600px;
+ justify-content: center;
+    align-items: center;
+    }
+
+    .load-page {
+        background-image: url(../imagen/pepa.png);
+    }
+
+.finish-load {
+    animation-delay: 3s;
+}
+
+.back-image {
+    background-color: white;
+}
